@@ -1,3 +1,3 @@
 # Core_Programming
 <br>
-Assignment solutions for Java Core Programming 
+Assignment Solutions for Java Core Programming 
